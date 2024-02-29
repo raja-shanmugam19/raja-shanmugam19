@@ -60,8 +60,9 @@ I developed a CPS web application for tracking operational staff activities for 
 
 I worked as a Full stack Developer at Nielsen AOD, developing UI screens using ExtJS, Angular, and Polymer, implementing RESTful APIs with Spring MVC and Node.js, and managing deployments with Bamboo CI/CD.
 
-## 📫 Contact Me
-**📞** +61 0470551605
-**📧** rohitraja1901@gmail.com
-**🔗** [LinkedIn](https://www.linkedin.com/in/raja-shanmugam-224a68133/)
+## 📫 Contact Me  
+**📞** +61 0470551605  
+**📧** rohitraja1901@gmail.com  
+**🔗** [LinkedIn](https://www.linkedin.com/in/raja-shanmugam-224a68133/)  
+
 
